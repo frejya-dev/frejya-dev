@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Frejya.
 
-<!--
-**frejya-dev/frejya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer interested in digital platforms, user experience, accessibility, and analytics.
 
-Here are some ideas to get you started:
+Most of my professional work centers on improving websites and content systems, simplifying workflows, and helping organizations communicate more effectively through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I document what I'm learning and building outside of work. I'm currently exploring JavaScript, Python, R, and modern web development through small, practical projects.
+
+## Currently exploring
+
+- JavaScript
+- Python
+- R & data visualization
+- WordPress development
+- Accessibility
+
+## Projects
+
+I'm rebuilding this GitHub with a small collection of projects that reflect both my professional experience and my continued learning.
+
+## Tech
+
+HTML • CSS • JavaScript • PHP • WordPress • Shopify • Python • R • Git • GA4 • Tableau
+
+---
+
+Thanks for stopping by.
