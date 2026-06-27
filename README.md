@@ -1,10 +1,10 @@
 # Hi, I'm Frejya.
 
-I'm a web developer interested in digital platforms, user experience, accessibility, and analytics.
+I'm a web developer interested in building thoughtful, accessible digital platforms.
 
 Most of my professional work centers on improving websites and content systems, simplifying workflows, and helping organizations communicate more effectively through technology.
 
-This GitHub is where I document what I'm learning and building outside of work. I'm currently exploring JavaScript, Python, R, and modern web development through small, practical projects.
+This GitHub is where I build, experiment, and continue learning outside of work. I'm currently exploring JavaScript, Python, R, and modern web development through small, practical projects.
 
 ## Currently exploring
 
@@ -16,11 +16,18 @@ This GitHub is where I document what I'm learning and building outside of work. 
 
 ## Projects
 
-I'm rebuilding this GitHub with a small collection of projects that reflect both my professional experience and my continued learning.
+Projects here range from web development and CMS work to JavaScript, Python, and R, reflecting both my professional experience and the technologies I'm exploring.
 
 ## Tech
 
-HTML • CSS • JavaScript • PHP • WordPress • Shopify • Python • R • Git • GA4 • Tableau
+**Web**  
+HTML • CSS • JavaScript • PHP • WordPress • Shopify
+
+**Data**  
+Python • R • GA4 • Tableau
+
+**Tools**  
+Git • GitHub
 
 ---
 
