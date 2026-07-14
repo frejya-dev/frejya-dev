@@ -1,33 +1,37 @@
 # Hi, I'm Frejya.
 
-I'm a web developer interested in building thoughtful, accessible digital platforms.
+I'm a web developer focused on building thoughtful, accessible digital platforms.
 
-Most of my professional work centers on improving websites and content systems, simplifying workflows, and helping organizations communicate more effectively through technology.
+Professionally, I work on websites, content systems, and digital experiences that help organizations communicate more effectively. My work spans frontend development, CMS platforms, analytics, and improving the workflows behind the sites people use every day.
 
-This GitHub is where I build, experiment, and continue learning outside of work. I'm currently exploring JavaScript, Python, R, and modern web development through small, practical projects.
+This GitHub is where I continue learning outside of work by building practical projects with modern frontend tools, data analysis, and cloud deployment.
 
-## Currently exploring
+## Current focus
 
+- React
 - JavaScript
 - Python
-- R & data visualization
-- WordPress development
+- AWS Amplify
+- Data visualization
 - Accessibility
 
 ## Projects
 
-Projects here range from web development and CMS work to JavaScript, Python, and R, reflecting both my professional experience and the technologies I'm exploring.
+My projects range from frontend dashboards and interactive web applications to data analysis and workflow tools. They reflect both my professional experience and the technologies I'm actively developing.
 
 ## Tech
 
-**Web**  
-HTML • CSS • JavaScript • PHP • WordPress • Shopify
+**Frontend**  
+React • JavaScript • HTML • CSS
 
-**Data**  
+**CMS & Platforms**  
+WordPress • Shopify • PHP
+
+**Data & Analytics**  
 Python • R • GA4 • Tableau
 
 **Tools**  
-Git • GitHub
+Git • GitHub • AWS Amplify
 
 ---
 
